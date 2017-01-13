@@ -1,0 +1,5 @@
+test = {'file_in': ['in_3.png'],
+        'file_out': ['out_3.png']}
+df = pd.DataFrame(raw_data, columns = ['file_in', 'file_out'])
+df
+
